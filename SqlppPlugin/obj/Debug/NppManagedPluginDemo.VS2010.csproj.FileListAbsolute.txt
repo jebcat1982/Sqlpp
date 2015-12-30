@@ -1,0 +1,8 @@
+C:\projects\NppManagedPluginDemo\bin\Debug\Demo.dll
+C:\projects\NppManagedPluginDemo\bin\Debug\Demo.pdb
+C:\projects\NppManagedPluginDemo\obj\Debug\NppManagedPluginDemo.VS2010.csprojResolveAssemblyReference.cache
+C:\projects\NppManagedPluginDemo\obj\Debug\NppPluginNET.frmGoToLine.resources
+C:\projects\NppManagedPluginDemo\obj\Debug\NppPluginNET.Properties.Resources.resources
+C:\projects\NppManagedPluginDemo\obj\Debug\NppManagedPluginDemo.VS2010.csproj.GenerateResource.Cache
+C:\projects\NppManagedPluginDemo\obj\Debug\Demo.dll
+C:\projects\NppManagedPluginDemo\obj\Debug\Demo.pdb

@@ -1,0 +1,6 @@
+HELP
+
+Generating a module:
+1. configue 
+1. search a table:
+	
